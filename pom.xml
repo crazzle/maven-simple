@@ -8,7 +8,6 @@
   <packaging>jar</packaging>
 
   <name>Simple Maven example</name>
-  <url>https://jitpack.io/#jitpack/maven-simple/0.1</url>
 
   <dependencies>
     <dependency>
